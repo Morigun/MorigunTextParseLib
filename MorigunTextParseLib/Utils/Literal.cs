@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MorigunTextParseLib
+namespace MorigunTextParseLib.Utils
 {
-    public class Class1
+    public class Literal
     {
+        public String Value { get; set; }
     }
 }
